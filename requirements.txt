@@ -1,0 +1,8 @@
+langchain
+google-generativeai
+streamlit
+langchain-google-genai
+python-dotenv
+chromadb== 0.4.15
+pypdf
+PyPDF2
